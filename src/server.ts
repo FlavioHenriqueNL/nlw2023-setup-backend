@@ -16,4 +16,4 @@ app.register(appRoutes);
 //listen-start
 app.listen({
     port: 3304
-}).then(() => console.log("HTTP Server Running!!"))
+}).then(() => console.log("HTTP Server Running on port 3304"))
